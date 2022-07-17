@@ -7,7 +7,7 @@
             //UC1_Prsnt present = new UC1_Prsnt();
             //present.CalculatePresent();
 
-            UC2_dailywage dlywage = new UC2_dailywage();
+            UC3_AddpartEmpWage dlywage = new UC3_AddpartEmpWage();
             dlywage.CalculateWage();
         }
     }
